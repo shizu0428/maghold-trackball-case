@@ -113,6 +113,8 @@
    ケースの所定位置に磁石（5×10×1mm）を挿入・固定します。  
    14mm球の場合は磁石は1個，19mm球の場合は磁石を2個重ねて挿入します。  
    <img width="1856" height="1869" alt="image" src="https://github.com/user-attachments/assets/0705e4e7-7027-4119-bf57-80c996473ece" />
+   <img width="1118" height="839" alt="image" src="https://github.com/user-attachments/assets/49181884-d1f0-4e38-9393-8fa6eae710cd" />
+
 3. **ベアリングの固定**  
    ベアリング（4×1.5×2mm）をM1.4ねじで固定します（計3箇所）。
 4. **センサーの組み込み**  
