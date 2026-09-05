@@ -78,9 +78,8 @@
 ※2026年9月現在，購入ができない状況です。
 
 - **19mm トラックボール**  
-  👉 [beekeeb.jp](https://shop.beekeeb.jp/products/19mm-trackball?srsltid=AfmBOooZfb4-ASYKKJ_1Wjm_UBtXIh0GCOIJPd9QXWFK3pAHZcpi74bL)  
-  ※beekeebの19mmボールについては、**重みのあるタイプ（オレンジレッド、チェリーレッド、ダークグレー）でのみ**磁性があることを確認済みです。
-  ※2026年9月現在，購入ができない状況です。
+  👉 [beekeeb](https://shop.beekeeb.com/products/19mm-trackball)  
+  ※beekeebの19mmボールについては、**18gタイプ（オレンジレッド、チェリーレッド、ダークグレー）でのみ**磁性があることを確認済みです。
 
   👉 [ゆ〜キーショップ (BOOTH)](https://yukeyshop.booth.pm/items/8697940)
 
