@@ -20,3 +20,9 @@ http://creativecommons.org/licenses/by-nc/4.0/
 ■ お問い合わせ先・連絡先
 - GitHub: @shizu0428
 - X (旧Twitter): @shizu0428
+
+
+### 謝辞・関連プロジェクト / Acknowledgments
+本ケースの設計にあたっては、せきごん（[@sekigon-gonnoc](https://github.com/sekigon-gonnoc)）氏設計の以下のプロジェクトを参考にさせていただいています。素晴らしいプロダクトの公開に深く感謝申し上げます。
+
+- **[torabo-tsuki LP](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp)** ([GPL-3.0 License](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp?tab=GPL-3.0-1-ov-file))
