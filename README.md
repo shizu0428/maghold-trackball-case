@@ -148,5 +148,3 @@
 ### お問い合わせ先
 - GitHub: [@shizu0428](https://github.com/shizu0428)
 - X (旧Twitter): [@shizu0428](https://x.com/shizu0428)
-
-<img width="4096" height="3072" alt="1000015904" src="https://github.com/user-attachments/assets/5153005a-879d-4733-af08-51fdba42c859" />
