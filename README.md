@@ -3,6 +3,7 @@
 自作キーボードに組み込むための **磁気保持式トラックボールケース**（3Dプリント用モデルデータ）です。
 
 トラックボール自体の磁性と、ケース底部に埋め込む磁石との引力を利用してボールを保持・固定します。ボールの脱落防止用の覆い（外枠・天面）がない構造のため、小径ボールでも指の接触範囲（操作エリア）を広く確保できるのが大きな特徴です。
+<video src="https://github.com/user-attachments/assets/9145ee82-7418-4fc4-b364-56db967b2aee" autoplay loop muted playsinline width="100%"></video>
 
 <img width="4096" height="3072" alt="1000015904" src="https://github.com/user-attachments/assets/1ebf4b41-d8d0-4b81-b07d-f9dee9ac4e53" />
 
