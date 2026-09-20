@@ -5,8 +5,6 @@
 トラックボール自体の磁性と、ケース底部に埋め込む磁石との引力を利用してボールを保持・固定します。ボールの脱落防止用の覆い（外枠・天面）がない構造のため、小径ボールでも指の接触範囲（操作エリア）を広く確保できるのが大きな特徴です。
 <video src="https://github.com/user-attachments/assets/9145ee82-7418-4fc4-b364-56db967b2aee" autoplay loop muted playsinline width="100%"></video>
 
-<img width="4096" height="3072" alt="1000015904" src="https://github.com/user-attachments/assets/1ebf4b41-d8d0-4b81-b07d-f9dee9ac4e53" />
-
 ---
 
 ## 💡 特徴
@@ -19,10 +17,8 @@
   ボールを取り付けて使用する際には、ある程度の高さが出て指で操作しやすくなります。  
   一方、ボールを外して持ち運ぶ際にはケース自体の高さが抑えられるため、周囲のキートップと同程度になり移動時にかさばりません。  
   （※取り外したトラックボールはポーチの隙間やポケットなどに入れて持ち運んでください）
+<img width="1176" height="227" alt="image" src="https://github.com/user-attachments/assets/a60536c3-0250-4363-99e3-9f4c584023fa" />
 
-<img width="3072" height="2576" alt="unnamed" src="https://github.com/user-attachments/assets/05037286-9f6d-47e5-8f27-ca610be88b20" />
-
-<img width="4096" height="1862" alt="1000015911" src="https://github.com/user-attachments/assets/6676279f-dac8-43de-bb69-5d05d32a6ddc" />
 
 ---
 
@@ -49,13 +45,17 @@
   - センサーの配置：ボール直下に水平
   - 人差し指での操作を想定していますが、サムクラスタに配置しても使用可能です。
   <img width="563" height="515" alt="image" src="https://github.com/user-attachments/assets/f37076d9-3a32-459a-bf8e-d64f7bbe04f2" />
+<img width="4096" height="3072" alt="1000015904" src="https://github.com/user-attachments/assets/2f809652-ef6f-4c33-913e-386ced91ed4f" />
 
 - **サムクラスタ配置版（スイッチ穴マウント）**（準備中）
   - サムクラスタ配置に最適化させたバージョン（センサー配置斜め45°）を作成予定です。ケースのサイズは17mm狭ピッチ版よりもやや大きくなります。
 
 ### 19mmトラックボール_サムクラスタ用
+サムクラスタの右端や，マイコン下の配置を想定しています。
 ケースが1U(17x17mm)よりも大きく，周囲にスペースが必要です。寸法をご確認ください。
-<img width="836" height="625" alt="image" src="https://github.com/user-attachments/assets/4f98ef8e-d339-4b87-b956-0abab6afd364" />
+
+<img width="808" height="570" alt="image" src="https://github.com/user-attachments/assets/a9e58741-89a3-4661-ae89-dfa6082fa494" />
+<img width="1338" height="477" alt="image" src="https://github.com/user-attachments/assets/1030a8f5-b041-4acd-a279-7756490c1ac5" />
 
 - **トッププレートマウント用**
 👉 [データ](./19mm-case/)
@@ -124,9 +124,10 @@
 4. **センサーの組み込み**  
    14mmマウスセンサーモジュールをケースに取り付けます。  
    <img width="4096" height="3072" alt="1000015908" src="https://github.com/user-attachments/assets/9b06dffd-4573-4e13-9f2e-8ee8f8986e58" />
-5. **トッププレートへの固定**  
+5. **キーボードへの固定**  
    組み立てたトラックボールケースを、キーボードのトッププレート（スイッチ穴）に差し込みます。
-6. **ケーブルの配線・接続**  
+   torabo-tsuki LP用の場合は，M2ネジ2本を使用してボトムプレートに取り付けます。
+7. **ケーブルの配線・接続**  
    フレキシブルケーブル（0.5mmピッチ / 6P）をキーボード本体基板と接続します。  
    ※フレキシブルケーブルは、スイッチソケット用の中央穴を通して配線可能です。  
    <img width="2306" height="1772" alt="1000015912" src="https://github.com/user-attachments/assets/53ffdc6b-bd19-4394-878d-550d9f194eb3" />
